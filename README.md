@@ -1,4 +1,5 @@
 Seasonal Agriculture Performance Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing agricultural data to understand how farming performance changes across different seasons, crops, irrigation methods, states and districts.
@@ -8,6 +9,7 @@ The main goal is to identify meaningful patterns in agricultural performance and
 This project was completed as a Data Analytics Major Project.
 
 🎯 Project Objectives
+
 Understand and explore the agricultural dataset
 Clean and prepare the data for analysis
 Compare agricultural performance across seasons
@@ -18,12 +20,12 @@ Study relationships between important variables
 Identify meaningful patterns and differences
 Create visualizations to communicate the findings
 Provide data-driven conclusions and recommendations
+
 📊 Dataset
 
 The dataset contains 4,000 records and 28 columns related to agricultural activities.
 
 The dataset includes information about:
-
 State and District
 Crop and Season
 Farm Area
@@ -44,6 +46,7 @@ Profit
 Water Usage
 Water Efficiency
 Disease/Pest Risk
+
 🛠️ Tools & Technologies
 Python
 Pandas
@@ -51,11 +54,11 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 🔍 Analysis Performed
 Seasonal Analysis
 
 Compared Kharif, Rabi and Zaid seasons based on:
-
 Average Yield
 Average Production
 Average Revenue
@@ -73,7 +76,6 @@ Irrigation methods
 Crop Analysis
 
 Analyzed:
-
 Average Yield by Crop
 Average Production by Crop
 Revenue and Cost by Crop
@@ -82,14 +84,12 @@ Crop performance across different seasons
 Irrigation Analysis
 
 Compared irrigation methods based on:
-
 Average Yield
 Average Profit
 Profit across different seasons
 State & District Analysis
 
 Compared different states and districts based on:
-
 Average Yield
 Average Profit
 Average Revenue
@@ -110,6 +110,7 @@ Drip irrigation recorded the highest average yield and average profit among the 
 Punjab recorded the highest average yield and average state-level profit.
 Warangal recorded the highest average profit among the districts analyzed.
 Profitability varied considerably across different crop-season combinations.
+
 📊 Visualizations
 
 The project includes visualizations for:
@@ -122,6 +123,7 @@ District-level performance
 Revenue, Cost and Profit comparisons
 Crop and Season combinations
 Relationship and correlation analysis
+
 💡 Conclusion
 
 The analysis shows that agricultural performance varies across seasons, crops, irrigation methods and geographical regions.
@@ -139,11 +141,13 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb
 │
 ├── Ramya_Krishna_Akula_VOIS_Major_Project_PPT_Submission_Template.pptx
- |------Major Project_Seasonal Agriculture Performance Analysis.pdf
+|
+├── Major Project_Seasonal Agriculture Performance Analysis.pdf
 │
 └── README.md
+
 👤 Author
 
 Ramya Krishna Akula
 
-Data Analyst | Python | SQL | Excel | Power BI
+Data Analyst | Python | Pandas | Data Visualization
