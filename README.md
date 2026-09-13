@@ -133,18 +133,21 @@ Kharif generally performed better in terms of yield, production and profitabilit
 The project helped identify important patterns in agricultural performance using data analysis and visualization.
 
 📁 Project Structure
-Seasonal-Agriculture-Performance-Analysis/
+Seasonal-Agriculture-Performance-Analysis/                                                                                                                       
 │
-├── seasonal_agriculture_performance_dataset.csv
-│   
-│
-├── Seasonal_Agriculture_Performance_Analysis.ipynb
-│
-├── Ramya_Krishna_Akula_VOIS_Major_Project_PPT_Submission_Template.pptx
 |
-├── Major Project_Seasonal Agriculture Performance Analysis.pdf
+├── seasonal_agriculture_performance_dataset.csv                                                                                                                    
+│ 
 │
-└── README.md
+├── Seasonal_Agriculture_Performance_Analysis.ipynb                                                 
+│ 
+|
+├── Ramya_Krishna_Akula_VOIS_Major_Project_PPT_Submission_Template.pptx                                                                          
+|
+|
+├── Major Project_Seasonal Agriculture Performance Analysis.pdf                                                                                
+│
+└── README.md                                                                                                                                  
 
 👤 Author
 
